@@ -1,0 +1,239 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2012.1.9)  10 SEP 2013 12:06
+entering extended mode
+**dissertation.tex
+
+("D:\Documents and Settings\UPV-EHU\Escritorio\TESIS_DOCTORAL\Redaccion\phd-tem
+plate\PhDLATEX\dissertation.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+
+("D:\Documents and Settings\UPV-EHU\Escritorio\TESIS_DOCTORAL\Redaccion\phd-tem
+plate\PhDLATEX\Latex/Classes/PhDthesisPSnPDF.cls"
+Document Class: Latex/Classes/PhDthesisPSnPDF 2010/11/26 v3 PhD thesis class
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\base\book.cls"
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\base\bk12.clo"
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
+\Gread@gobject=\count88
+))
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\caption\caption.sty"
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\caption\caption3.sty"
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\captionmargin=\dimen103
+\captionmargin@=\dimen104
+\captionwidth=\dimen105
+\caption@tempdima=\dimen106
+\caption@indent=\dimen107
+\caption@parindent=\dimen108
+\caption@hangindent=\dimen109
+)
+\c@ContinuedFloat=\count89
+)
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\amsfonts\eucal.sty"
+Package: eucal 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+)
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\footmisc\footmisc.sty"
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks16
+\footnotemargin=\dimen110
+\c@pp@next@reset=\count90
+\c@@fnserial=\count91
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\natbib\natbib.sty"
+Package: natbib 2009/11/07 8.31a (PWD, AO)
+\bibhang=\skip52
+\bibsep=\skip53
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count92
+)
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\tools\multicol.sty"
+Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
+\c@tracingmulticols=\count93
+\mult@box=\box26
+\multicol@leftmargin=\dimen111
+\c@unbalance=\count94
+\c@collectmore=\count95
+\doublecol@number=\count96
+\multicoltolerance=\count97
+\multicolpretolerance=\count98
+\full@width=\dimen112
+\page@free=\dimen113
+\premulticols=\dimen114
+\postmulticols=\dimen115
+\multicolsep=\skip54
+\multicolbaselineskip=\skip55
+\partial@page=\box27
+\last@line=\box28
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count99
+\c@finalcolumnbadness=\count100
+\last@try=\dimen116
+\multicolovershoot=\dimen117
+\multicolundershoot=\dimen118
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+)
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\tocbibind\tocbibind.sty"
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) ("C:\Archivos de programa\MiKTeX 2.8\tex\latex\xifthen\xifthen.sty"
+Package: xifthen 2009/04/17 v1.3 Extended ifthen features
+
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\misc\etex.sty"
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count101
+)
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count102
+\calc@Bcount=\count103
+\calc@Adimen=\dimen119
+\calc@Bdimen=\dimen120
+\calc@Askip=\skip56
+\calc@Bskip=\skip57
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count104
+\calc@Cskip=\skip58
+)
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\ifmtarg\ifmtarg.sty"
+Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
+))
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\base\makeidx.sty"
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+("C:\Archivos de programa\MiKTeX 2.8\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+
+! LaTeX Error: File `utf8x.def' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: def)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.131 \endinput
+               
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 3100 strings out of 495285
+ 46255 string characters out of 3179730
+ 99902 words of memory out of 3000000
+ 6300 multiletter control sequences out of 15000+200000
+ 3938 words of font info for 15 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 43i,0n,45p,309b,39s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
